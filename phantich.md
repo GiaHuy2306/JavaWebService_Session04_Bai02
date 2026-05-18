@@ -1,4 +1,4 @@
-Post dùng để tạo mới tài nguyên
+t aPost dùng để tạo mới tài nguyên
 
 Put dùng để cập nhật toàn bộ tài nguyên
 
